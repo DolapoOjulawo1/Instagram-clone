@@ -21,22 +21,47 @@
     padding-top: 30px;
 }
 
-.image-section {
-    display: flex;
-    
-    
-}
-.follow-section{
-    display: flex;
+.content-2 {
+    border: 1px solid grey;
+    max-width: 600px;
+    height: 820px;
+    margin: 0 auto;
+    border-radius: 10px;
 }
 
-.follow-section a {
-    padding-left: 60px;
+.image-section {
+    display: flex;   
+  
+}
+
+.content-name {
+    display: flex;
+    gap: 260px;
+}
+
+.content-name a {
     text-decoration: none;
-    color: blue;
+    color: black;
+    font-size: 20px;
+    font-weight: 600;  
+}
+
+.content-name2 {
+    display: flex;
 }
 
 .spacing {
-    padding-left: 150px;
+    padding-top: 30px;
 }
 
+.spacing1 {
+    padding-left: 10px;
+}
+
+.image1 {
+   max-width: 600px;
+}
+
+.comment-section {
+    display: flex;
+}
