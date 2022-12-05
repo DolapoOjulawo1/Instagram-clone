@@ -9,6 +9,12 @@
     padding-left: 70px;
 }
 
+.button {
+    width: 500px;
+    max-height: 50px;
+    border-radius: 30px;
+  
+}
 
 
 .content-1 {
@@ -62,6 +68,21 @@
    max-width: 600px;
 }
 
+.image2 {
+    max-width: 800px;
+}
+
 .comment-section {
     display: flex;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.favorite {
+    display: flex;
+    justify-content: space-around;
+    gap: 799px;
 }
